@@ -61,3 +61,6 @@ with open('C:\\Users\\jonas\\Downloads\\investicni_portfolio.csv', 'w', newline=
     writer = csv.writer(file)
     writer.writerow(["Spolecnost", "EBIT 1\6 2021", "EBIT 1\6 2020"])
     writer.writerow(["Cez", target1, target2])
+
+
+nic
